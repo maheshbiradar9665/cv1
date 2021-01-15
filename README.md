@@ -1,1 +1,1 @@
-# cv1
+permalink: /cv.html
